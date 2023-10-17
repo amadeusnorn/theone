@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">theone</string>
+    <string name="base_currency">USD: 1.00</string>
+    <string name="nzd" />
+    <string name="aud" />
+    <string name="gbp" />
+</resources>
